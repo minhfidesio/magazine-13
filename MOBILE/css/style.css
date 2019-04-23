@@ -35,12 +35,12 @@ p {
 input[type=text], input[type=tel], textarea {
     -webkit-appearance: none;
 }
-/*body{
+body{
     background-color: black;
     color: white;
-}*/
+}
 body a:link{
-    color: black;
+    color: white;
     font-weight: bold;
 }
 .wrapper-tt{
@@ -72,7 +72,7 @@ body a:link{
     margin: 0 auto;
 }
 
-p, ul{
+p, ul, h3{
     padding: 0 10px;
     font-family: Helvetica;
     font-size: 17px;
