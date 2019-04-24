@@ -72,13 +72,16 @@ body a:link{
     margin: 0 auto;
 }
 
-p, ul, h3{
+p, ul{
     padding: 0 10px;
     font-family: Helvetica;
     font-size: 17px;
     line-height: 30px !important;
 }
-
+iframe{
+    display: block;
+    margin: 0 auto;
+}
 .outline img {
     width: 100%;
 }
