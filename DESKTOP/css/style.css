@@ -53,7 +53,7 @@ body{
 body a:link{
     color: white;
     -webkit-text-fill-color: white;
-    /*font-weight: bold;*/
+    font-weight: bold;
 
 }
 .background-white a:link{

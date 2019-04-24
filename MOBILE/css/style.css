@@ -41,7 +41,7 @@ body{
 }
 body a:link{
     color: white;
-    /*font-weight: bold;*/
+    font-weight: bold;
 }
 .wrapper-tt{
     font-family: 'Open Sans', sans-serif;
